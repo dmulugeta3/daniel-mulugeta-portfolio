@@ -1,59 +1,68 @@
-<header>
+# 👋 Hi, I'm Daniel Mulugeta
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
-
-## Step 2: Configure your site
-
-_You turned on GitHub Pages! :tada:_
-
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
-
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
-
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
-
-### :keyboard: Activity: Configure your site
-
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+🚀 Aspiring Systems/Network Administrator | IT Enthusiast | Homelab Engineer  
+📍 Carrollton, TX | 📧 danielmulugeta061@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/danielwmulugeta/)
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🧠 About Me
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+I’m currently pursuing a **Bachelor of Science in Information Technology & Systems** at **The University of Texas at Dallas**, with a strong focus on systems administration, cloud computing, and enterprise networking.
 
-</footer>
+As a passionate self-starter, I’ve developed a robust **homelab environment** where I’ve deployed everything from Active Directory to custom VPN and firewall services. I enjoy exploring new technologies and building real-world IT solutions.
+
+---
+
+## 🔧 Skills & Tools
+
+- **Operating Systems**: Linux (Debian/Ubuntu), Windows Server 2019  
+- **Virtualization**: Proxmox VE, VMware, VirtualBox  
+- **Cloud**: AWS (Lightsail)  
+- **Networking**: pfSense, Cisco SG300, Snort, pfBlockerNG  
+- **Scripting & Tools**: PowerShell, NGINX, Flask, HTML/CSS, SSH/SCP  
+- **ITSM & Issue Tracking**: Jira, ServiceNow, TeamDynamix  
+- **Other**: Hardware Maintenance, Active Directory, WDS, DNS, VPN
+
+---
+
+## 💼 Experience
+
+### 🏫 UT Dallas - Office of Information Technology  
+**Student Network Engineer**  
+_Feb 2025 – Present_  
+- Installed and configured network switches for infrastructure upgrades.  
+- Performed data jack testing and port activations across campus.  
+- Mentored peers in switch deployment and ticket documentation (TeamDynamix).
+
+### 🏢 Epsilon  
+**IT Intern**  
+_May 2024 – Dec 2024_  
+- Maintained security compliance by patching Windows & Linux servers.  
+- Managed IT requests using Jira & ServiceNow.  
+- Supported server lifecycle management and infrastructure optimization.
+
+---
+
+## 🧪 Projects
+
+### 💻 Personal Homelab (2018 – Present)
+- Built a **Windows Server 2019** lab with Active Directory, Plex, Kavita, and WDS.  
+- Virtualized multiple Linux containers and VMs with **Proxmox**, including Pi-hole, Nextcloud, VPN, and Docker services.  
+- Developed a **pfSense** router with **Snort** and **pfBlockerNG** for IDS/IPS and DNS filtering.
+
+### ☁️ Cloud Portfolio Website (AWS Lightsail)
+- Deployed a personal site using Flask on an Ubuntu VM hosted on AWS Lightsail.  
+- Secured file transfers with SSH/SCP and built a serverless contact form using Formspree.  
+- Optimized frontend UI and handled server management and troubleshooting.
+
+---
+
+## 🌐 Let's Connect
+
+📧 danielmulugeta061@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/danielwmulugeta/)
+
+---
+
+📌 *Open to full-time opportunities in Systems Administration, Cloud Engineering, or Network Engineering roles starting January 2026.*
+
